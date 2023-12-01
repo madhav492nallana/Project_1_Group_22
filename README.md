@@ -18,7 +18,7 @@ Compiling progress reports and status updates.
 Organizing and maintaining project-related documents and information.
 Ensuring proper documentation for future reference and troubleshooting.
 
-
+Here is the Github repo link:https://github.com/madhav492nallana/Project_1_Group_22.git
 
 the database, including tables, attributes, primary keys, foreign keys, foreign key constraints, functional dependencies (FDs), and sample data for each table.
 
