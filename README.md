@@ -1,5 +1,25 @@
 # Project_1_Group_22
 
+****Team member 1 (Sethu Madhav Nallana) responsibilities****
+Writing and executing the Queries 
+Overall coordination and management of the project.
+Writing code and developing software, applications, or systems.
+Integrating designs and functionalities into the project
+Conducting testing and debugging to ensure functionality.
+Collaborating with other teams for seamless integration
+Checking the functionality 
+Fixing the typos and errors in the query
+****Team member 2 (Tejaswi Chowdary Sudhireddy) responsibilities****
+Adding the query to Github and saving it as a README.ED file
+Checking the functionality of the requirement 
+Preparing the documentation and repository links.
+Creating project documentation, including a description document
+Compiling progress reports and status updates.
+Organizing and maintaining project-related documents and information.
+Ensuring proper documentation for future reference and troubleshooting.
+
+
+
 the database, including tables, attributes, primary keys, foreign keys, foreign key constraints, functional dependencies (FDs), and sample data for each table.
 
 Database Description:
